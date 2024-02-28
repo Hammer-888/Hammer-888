@@ -8,5 +8,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Hammer-888&show_icons=true&theme=transparent)
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/Hammer-888/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hammer-888&layout=compact&theme=tokyonight)
 
+![](https://github-readme-activity-graph.cyclic.app/graph?username=Hammer-888&theme=dracula)
